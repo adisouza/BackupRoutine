@@ -1,0 +1,13 @@
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\bin\Debug\Pw1.Backup.Routine.Service.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\bin\Debug\Pw1.Backup.Routine.Service.pdb
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\bin\Debug\Pw1.Backup.Routine.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\bin\Debug\Pw1.Backup.Routine.pdb
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\bin\Debug\Pw1.Backup.Routine.exe.config
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.csproj.AssemblyReference.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.ProjectInstaller.resources
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.Pw1BackupDataBase.resources
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.csproj.GenerateResource.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.csproj.CoreCompileInputs.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.csproj.CopyComplete
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine.Service\obj\Debug\Pw1.Backup.Routine.Service.pdb

@@ -1,0 +1,18 @@
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Release\Pw1.Backup.Routine.exe.config
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Release\Pw1.Backup.Routine.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Release\Pw1.Backup.Routine.pdb
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.Form1.resources
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.Properties.Resources.resources
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.csproj.GenerateResource.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.csproj.CoreCompileInputs.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.pdb
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Release\Pw1.Backup.Routine.exe.config
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Release\Pw1.Backup.Routine.exe
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Release\Pw1.Backup.Routine.pdb
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.Form1.resources
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.Properties.Resources.resources
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.csproj.GenerateResource.cache
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.csproj.CoreCompileInputs.cache
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.exe
+D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Release\Pw1.Backup.Routine.pdb

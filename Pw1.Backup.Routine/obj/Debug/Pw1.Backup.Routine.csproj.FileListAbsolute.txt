@@ -1,0 +1,9 @@
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Debug\Pw1.Backup.Routine.exe.config
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Debug\Pw1.Backup.Routine.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\bin\Debug\Pw1.Backup.Routine.pdb
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Debug\Pw1.Backup.Routine.Form1.resources
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Debug\Pw1.Backup.Routine.Properties.Resources.resources
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Debug\Pw1.Backup.Routine.csproj.GenerateResource.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Debug\Pw1.Backup.Routine.csproj.CoreCompileInputs.cache
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Debug\Pw1.Backup.Routine.exe
+D:\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\obj\Debug\Pw1.Backup.Routine.pdb

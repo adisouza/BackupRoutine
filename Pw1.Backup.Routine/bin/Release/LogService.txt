@@ -1,0 +1,11 @@
+ERROR SQL -System.Data.SqlClient.SqlException (0x80131904): O banco de dados 'controle_suporte_20220531143535' não existe. Verifique se o nome foi digitado corretamente.
+BACKUP DATABASE está sendo encerrado de forma anormal.
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   em System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   em System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   em System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   em System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   em Pw1.Backup.Routine.DATA.ConnectionSQL.CreateBackup(Boolean overwrite) na D:\area de trabalho\Projetos Csharp\Pw1.Backup.Routine\Pw1.Backup.Routine\DATA\ConnectionSQL.cs:linha 49
+ClientConnectionId:708eb1dd-d9ef-4e31-94ff-749528cb0c5e
+Error Number:911,State:11,Class:16
